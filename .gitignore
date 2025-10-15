@@ -22,3 +22,8 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+env/
+*.pyd
+*.dll
+__pycache__/
+
